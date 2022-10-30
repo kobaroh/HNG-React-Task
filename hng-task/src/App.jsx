@@ -1,7 +1,7 @@
 import React from "react";
 import classes from "./App.module.css"
-import FooterSection from "./components/FooterSection/FooterSectiom";
-import LinksSection from "./components/LinksSection/LinkSection";
+import FooterSection from "./components/FooterSection/FooterSection";
+import LinksSection from "./components/LinksSection/LinksSection";
 import ProfileSection from "./components/ProfileSection/ProfileSection";
 
 const App = () => {
